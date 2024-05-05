@@ -34,4 +34,4 @@ You will find all the required assets in the `/images` folder. The assets are al
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
-## Link to the  project[https://liedsonfranco.github.io/Stats-preview-card/]
+## Link to the  [project](https://liedsonfranco.github.io/Stats-preview-card/)
